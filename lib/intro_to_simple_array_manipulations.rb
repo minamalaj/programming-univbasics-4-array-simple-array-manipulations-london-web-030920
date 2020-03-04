@@ -23,6 +23,8 @@ def shift_with_args(array)
 end
 
 
-def using_concat("")
+def using_concat(a, b)
+  a = []
+  b = []
   
   
