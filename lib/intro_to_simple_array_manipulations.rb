@@ -24,7 +24,7 @@ end
 
 
 def using_concat(a, b)
-  a = []
+  a.concat(b) = []
   b = []
   
   
